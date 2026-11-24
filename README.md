@@ -52,4 +52,4 @@ On safety and limits: https://remotehand.app/is-it-safe.html
 
 Open an issue here or write to support@remotehand.app.
 
-Remotehand is an independent product by Coconut Joe, a trading name of ibiPoint Ltd. It is not made or endorsed by Anthropic. Claude is a trademark of Anthropic, PBC.
+Remotehand is an independent product by Coconut Joe Ltd. It is not made or endorsed by Anthropic. Claude is a trademark of Anthropic, PBC.
